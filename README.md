@@ -22,7 +22,7 @@
   </em> 
 </p>
 
-🎯 **Skills I have**  
+📊 **Skills I have**  
 <br>
     ![](https://img.shields.io/badge/Dashboards-ff69b4?style=for-the-badge)
     ![](https://img.shields.io/badge/Data%20Analysis-ff69b4?style=for-the-badge)
@@ -70,7 +70,7 @@
 
 ---
 
-🚀 **Github Stats**
+🐱 **Github Stats**
 <div align="center">
 
   <a href=""><img height=170 src="https://github-readme-stats.vercel.app/api?username=emilygzms010&show_icons=true&count_private=true&hide_border=true&hide=stars&include_all_commits=false&theme=dracula" /></a>
