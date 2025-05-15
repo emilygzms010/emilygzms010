@@ -37,10 +37,10 @@
     ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-    <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle"/> </a>
+    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-    <a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
+    ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     <img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white">
     ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -50,7 +50,7 @@
     ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
     ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-    <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+    ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
     ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
@@ -71,20 +71,18 @@
 ---
 
 🚀 **Github Stats**
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
-
-  <a href=""><img height=170 src="https://github-readme-stats.vercel.app/api?username=emilygzms010&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" /></a>
-  <a href=""><img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilygzms010&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" /></a>
-  <a href=""><img height=170 width=830 src="http://github-readme-streak-stats.herokuapp.com?user=emilygzms010&theme=material-palenight"/></a>
+  <a href=""><img height=170 src="https://github-readme-stats.vercel.app/api?username=emilygzms010&show_icons=true&count_private=true&hide_border=true&hide=stars&include_all_commits=false&theme=dracula" /></a>
+  <a href=""><img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilygzms010&langs_count=8&layout=compact&hide_border=true&theme=dracula&hide=html,Tcl" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emilygzms010&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=780" alt="GitHub Streak" /></a>
   <br>
   <br>
-
+</div>
   
 ---
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=2000&pause=500&color=FF69B4&center=true&width=435&lines=Thank+you+for+visiting+%F0%9F%8C%BB" alt="Typing SVG" /></a>
 </div>
-	
 
