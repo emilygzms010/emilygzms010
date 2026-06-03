@@ -84,6 +84,6 @@
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=2000&pause=500&color=FF69B4&center=true&width=435&lines=Thank+you+for+visiting+%F0%9F%8C%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=19&duration=2000&pause=500&color=5B7E3C&center=true&width=435&lines=Thank+you+for+visiting+%F0%9F%8C%BB" alt="Typing SVG" /></a>
 </div>
 
