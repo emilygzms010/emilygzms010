@@ -24,10 +24,10 @@
 
 📊 **Skills I have**  
 <br>
-    ![](https://img.shields.io/badge/Dashboards-ff69b4?style=for-the-badge)
-    ![](https://img.shields.io/badge/Data%20Analysis-ff69b4?style=for-the-badge)
-    ![](https://img.shields.io/badge/Data%20Cleaning-ff69b4?style=for-the-badge)
-    ![](https://img.shields.io/badge/Data%20Visualization-ff69b4?style=for-the-badge)  
+    ![](https://img.shields.io/badge/Dashboards-5B7E3C?style=for-the-badge)
+    ![](https://img.shields.io/badge/Data%20Analysis-5B7E3C?style=for-the-badge)
+    ![](https://img.shields.io/badge/Data%20Cleaning-5B7E3C?style=for-the-badge)
+    ![](https://img.shields.io/badge/Data%20Visualization-5B7E3C?style=for-the-badge)  
 
 ---
 
