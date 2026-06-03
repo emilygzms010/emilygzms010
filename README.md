@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-  [![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilygzms)
+  [![image](https://img.shields.io/badge/LinkedIn-5B7E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilygzms)
   [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilygzms010@gmail.com)
   [![image](https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/emilygzms010)
   [![image](https://img.shields.io/badge/Kaggle-ff69b4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/emilygm)
